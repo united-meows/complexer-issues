@@ -1,2 +1,2 @@
-# cryptcat-issues
+# complexer-issues
 issue repository for complexer
