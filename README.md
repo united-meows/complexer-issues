@@ -1,2 +1,2 @@
 # cryptcat-issues
-issue repository for complexer obfuscator
+issue repository for complexer
